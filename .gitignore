@@ -1,0 +1,14 @@
+# Ignore virtual environment folder
+myenv/
+
+# Ignore Python cache and log files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.db
+*.sqlite3
+
+# Optional: Ignore VS Code config files
+.vscode/
